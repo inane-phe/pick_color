@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\PickColor\PickColor\bin\Debug\PickColor.exe.config
+c:\users\user\documents\visual studio 2013\Projects\PickColor\PickColor\obj\Debug\PickColor.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\PickColor\PickColor\obj\Debug\PickColor.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\PickColor\PickColor\obj\Debug\PickColor.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\PickColor\PickColor\obj\Debug\PickColor.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\PickColor\PickColor\bin\Debug\PickColor.exe
+c:\users\user\documents\visual studio 2013\Projects\PickColor\PickColor\bin\Debug\PickColor.pdb
+c:\users\user\documents\visual studio 2013\Projects\PickColor\PickColor\obj\Debug\PickColor.exe
+c:\users\user\documents\visual studio 2013\Projects\PickColor\PickColor\obj\Debug\PickColor.pdb
