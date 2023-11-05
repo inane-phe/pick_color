@@ -7,3 +7,13 @@ c:\users\user\documents\visual studio 2013\Projects\PickColor\PickColor\bin\Debu
 c:\users\user\documents\visual studio 2013\Projects\PickColor\PickColor\bin\Debug\PickColor.pdb
 c:\users\user\documents\visual studio 2013\Projects\PickColor\PickColor\obj\Debug\PickColor.exe
 c:\users\user\documents\visual studio 2013\Projects\PickColor\PickColor\obj\Debug\PickColor.pdb
+C:\Users\ls990\Downloads\pick_color-main\pick_color-main\PickColor\PickColor\bin\Debug\PickColor.exe.config
+C:\Users\ls990\Downloads\pick_color-main\pick_color-main\PickColor\PickColor\bin\Debug\PickColor.exe
+C:\Users\ls990\Downloads\pick_color-main\pick_color-main\PickColor\PickColor\bin\Debug\PickColor.pdb
+C:\Users\ls990\Downloads\pick_color-main\pick_color-main\PickColor\PickColor\obj\Debug\PickColor.csproj.AssemblyReference.cache
+C:\Users\ls990\Downloads\pick_color-main\pick_color-main\PickColor\PickColor\obj\Debug\PickColor.Form1.resources
+C:\Users\ls990\Downloads\pick_color-main\pick_color-main\PickColor\PickColor\obj\Debug\PickColor.Properties.Resources.resources
+C:\Users\ls990\Downloads\pick_color-main\pick_color-main\PickColor\PickColor\obj\Debug\PickColor.csproj.GenerateResource.cache
+C:\Users\ls990\Downloads\pick_color-main\pick_color-main\PickColor\PickColor\obj\Debug\PickColor.csproj.CoreCompileInputs.cache
+C:\Users\ls990\Downloads\pick_color-main\pick_color-main\PickColor\PickColor\obj\Debug\PickColor.exe
+C:\Users\ls990\Downloads\pick_color-main\pick_color-main\PickColor\PickColor\obj\Debug\PickColor.pdb
